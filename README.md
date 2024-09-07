@@ -1,5 +1,3 @@
-## Hi there 👋
-
 - Hi there! I'm Arturo Cardenal
 - I am an exchange student from Spain 🇪🇸
 - I'm doing my last academic year in Computer Science in SDSU 🇺🇸
