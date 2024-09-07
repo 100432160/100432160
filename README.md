@@ -1,7 +1,7 @@
-- Hi there! I'm Arturo Cardenal
-- I am an exchange student from Spain 🇪🇸
-- I'm doing my last academic year in Computer Science in SDSU 🇺🇸
-- I'm interested in fullstack development, machine learning and game development
+- 👋 Hi there! I'm **Arturo Cardenal**
+- 🌍 I'm an exchange student from Spain 🇪🇸, currently completing my final year of **Computer Science** at **SDSU** 🇺🇸
+- 💻 Passionate about **full-stack development**, **machine learning**, and **game development**
+- 🚀 Always looking for exciting projects to learn, build, and contribute to!
 
 <!--
 **100432160/100432160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
