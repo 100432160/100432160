@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm **Arturo Cardenal**
 - 🌍 I'm an exchange student from Spain 🇪🇸, currently completing my final year of **Computer Science** at **SDSU** 🇺🇸
-- 💻 Passionate about **full-stack development**, **machine learning**, and **game development**
+- 💻 Passionate about **full-stack development**, **machine learning**, and **cybersecurity**
 - 🚀 Always looking for exciting projects to learn, build, and contribute to!
 
 <!--
